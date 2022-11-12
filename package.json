@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node",
+    "start": "node dist",
     "start:dev": "ts-node src",
     "lint": "eslint .",
     "build": "tsc"
